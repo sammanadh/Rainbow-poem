@@ -5,3 +5,9 @@ red,
 blue,
 Green,
 yellow
+
+Unicorn
+pink 
+purple
+red
+These are the colors of unicorn
