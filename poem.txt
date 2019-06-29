@@ -1,5 +1,6 @@
 The Rainbow
 
-Purple
-red
-blue
+Purple,
+red,
+blue,
+Green,
